@@ -6,7 +6,7 @@ http
     // Create TwiML response
     const twiml = new VoiceResponse();
 
-    twiml.say('Hello from your pals at Twilio! Have fun.');
+    twiml.say('Welcome to Kalimera India, Please wait a min.');
 
     res.writeHead(200, { 'Content-Type': 'text/xml' });
     res.end(twiml.toString());

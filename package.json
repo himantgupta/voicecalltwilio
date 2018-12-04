@@ -15,7 +15,7 @@
     "multer": "^1.1.0",
     "request": "^2.73.0",	
     "sendmail": "^1.1.1",
-    "twilio-node":"^3.25.0"
+    "twilio":"^3.25.0"
   },
   "license": "Apache-2.0"
 }

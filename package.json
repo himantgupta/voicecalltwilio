@@ -1,5 +1,5 @@
 {
-  "name": "Restaurant auto receive call system",
+  "name": "RestaurantCall",
   "version": "1.0.0",
   "description": "Example of using twilio voice service with Node.js",
   "main": "index.js",
